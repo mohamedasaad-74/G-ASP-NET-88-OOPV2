@@ -1,0 +1,36 @@
+﻿
+#region struct DeliveryAddress
+
+//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
+
+//namespace assignment5_2.struct1
+//{
+//    public struct DeliveryAddress
+//    {
+//        public string City;
+//        public string Street;
+//        public int BuildingNumber;
+//        public DeliveryAddress(int BuildingNumber, string Street, string City)
+
+//        {
+//            this.BuildingNumber = BuildingNumber;
+//            this.Street = Street;
+//            this.City = City;
+//        }
+//        public string GetFullAddress()
+//        {
+//            return $"BuildingNumber :{BuildingNumber},Street : {Street} , City : {City}";
+
+//        }
+//        public override string ToString()
+//        {
+
+//            return GetFullAddress();
+//        }
+//    }
+//}
+#endregion
